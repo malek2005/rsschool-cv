@@ -1,0 +1,52 @@
+html{
+    height: 100%;
+}
+body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+header, footer {
+    background: gray;
+    padding: 10px 0;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+h2{
+    border-bottom: 2px solid #cccc;
+    padding-bottom: 12px;
+}
+main {
+    padding-top: 10px;
+    background-position: center; 
+
+}
+aside img {
+
+display: block;
+width: 70%;
+margin: 0 auto;
+border-radius: 50%;
+
+}
+
+footer {
+    color: white;
+    text-align: center;
+}
+
+.main {
+    display:flex;
+    justify-content: center;
+    padding-top: 40px;
+    width: 100%;
+    margin-bottom: 10px;  
+    height: 100%;
+}
+
