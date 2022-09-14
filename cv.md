@@ -4,6 +4,8 @@
 * *Email*: malek2005@list.tu
 * *Github*: [malek2005](https://github.com/malek2005 "моя ссылка")
 
+====
+
 ## About me
 I want to become a front-end developer.
 
@@ -13,6 +15,8 @@ I want to become a front-end developer.
 * JavaScript 
 * Git/Github
 * Figma
+
+====
 
 ## Code example
 
@@ -27,10 +31,13 @@ function isDivideBy(number, a, b) {
 }
 
 ```
+====
+
 ## Education
 * University : Belorussian State Pedagogical University
 * Course : The Rolling scopes school (stage 0? certificate)
 
+====
 
 ## Languages
 
